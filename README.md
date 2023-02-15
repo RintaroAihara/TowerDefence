@@ -3,6 +3,13 @@
 - タワーディフェンスのような一人用ゲーム
 - お互いに陣地からキャラクターを出撃させて相手のタワーのHPを0にしたら勝利
 
+# プレイ動画
+
+
+https://user-images.githubusercontent.com/82632927/219134752-4bcc699a-6add-4edf-bc69-fb778e011fb3.mp4
+
+
+
 # タイトル画面
 - ゲーム開始またはゲームを終了を選択できる
 <img width="1440" alt="スクリーンショット 2023-02-16 4 18 17" src="https://user-images.githubusercontent.com/82632927/219131685-968729c8-8279-49ca-a2b3-e0cc4788dc09.png">
